@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicTacTooo</string>
+    <string name="o_won">O has won the game</string>
+    <string name="x_won">X has won the game</string>
+    <string name="game_over">Game Over</string>
+    <string name="youX">You are X</string>
+    <string name="wait2">Waiting for second player</string>
+    <string name="youO">You are O</string>
+    <string name="wait1">Waiting for first player</string>
+    <string name="serverfull">The server is full</string>
+    <string name="restartreq">The other player requested a restart! Press the button!</string>
+    <string name="wait4res">Wait for other player\'s restart!</string>
+    <string name="turnP1">It is your turn P1</string>
+    <string name="turnP2">It is your turn P2</string>
+    <string name="ready2start">Ready to start game</string>
+    <string name="upfail">Upload failed!</string>
+    <string name="url4csv">http://midas.ktk.bme.hu/poti/?csv=</string>
+    <string name="fail2con">Failed to connect to server</string>
+</resources>
